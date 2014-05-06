@@ -2,7 +2,7 @@
 
 _windows-1258_ is a robust JavaScript implementation of [the windows-1258 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1258).
 
-This encoding is known under the following names: cp1258, windows-1258, x-cp1258, and x-cp1258.
+This encoding is known under the following names: cp1258, windows-1258, and x-cp1258.
 
 ## Installation
 
