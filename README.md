@@ -1,4 +1,4 @@
-# windows-1258 [![windows-1258 on npm](https://img.shields.io/npm/v/windows-1258)](https://www.npmjs.com/package/windows-1258)
+# windows-1258 [![Build status](https://github.com/mathiasbynens/windows-1258/workflows/run-checks/badge.svg)](https://github.com/mathiasbynens/windows-1258/actions?query=workflow%3Arun-checks) [![windows-1258 on npm](https://img.shields.io/npm/v/windows-1258)](https://www.npmjs.com/package/windows-1258)
 
 _windows-1258_ is a robust JavaScript implementation of [the windows-1258 character encoding as defined by the Encoding Standard](https://encoding.spec.whatwg.org/#windows-1258).
 
