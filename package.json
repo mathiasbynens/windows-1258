@@ -28,8 +28,10 @@
 	"bugs": "https://github.com/mathiasbynens/windows-1258/issues",
 	"files": [
 		"LICENSE-MIT.txt",
-		"windows-1258.mjs"
+		"windows-1258.mjs",
+		"windows-1258.d.ts"
 	],
+	"types": "windows-1258.d.ts",
 	"scripts": {
 		"download": "curl https://encoding.spec.whatwg.org/index-windows-1258.txt > data/index.txt",
 		"build": "node scripts/transform-data.js",
